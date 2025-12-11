@@ -2,3 +2,4 @@ Tämä on ryhmäprojektin ensimmäinen versio
 Lisätty teksti Jarno
 Lisätty teksti opettalta Kauno
 Lisätty teksti opiskelijalta
+Teksti tämmönen Matias
